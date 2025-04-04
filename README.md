@@ -137,7 +137,7 @@ cd pdf-table-extractor
 Feel free to fork the repo, open issues, or submit pull requests.
 
 🧠 Author
-Made with ❤️ by Suraj Bhan
+Made By Ankit Sharma-20215176-as2486178@gmail.com
 
 
 ---
